@@ -1,0 +1,410 @@
+print("hello world")
+#variable
+my_name <- "chang"
+C<-c(100, 200, TRUE, "300", 400)
+D<-c(100, 200, TRUE, "300", 400)
+C+D
+
+100 -> x
+
+1+1
+2 * 2
+1 + 1
+2 * 2
+
+seq(5,100)
+seq(5,100,5)
+
+print("ทำงาน ทำงาน ทำงาน")
+work <- print("ทำงาน ทำงาน ทำงาน")
+work
+
+
+10/6
+10/6
+1 + 1
+2 * 2
+10/6
+1 + 1
+2 * 2
+10/6
+
+
+my_friends <- c ("toy", "ink" ,"aan")
+my_friends
+my_friends [1]
+my_friends
+
+length(my_friends) #check vector length
+
+ages <- c("33","30","35")
+
+greeating <- function() {
+  print("hello world")
+}
+
+greeating()
+
+x <- c("10","20","30")
+
+sum(x)
+x <- c(10,20,30)
+sum(x)
+mean(x)
+median(x)
+var(x)
+sd(x)
+max(x)
+count.fields(x)
+lenght(x)
+
+
+
+greeating
+
+greeating <- function() {
+  print("hello world")
+}
+greeating()
+add_two_nums <- function(a,b) {
+  return(a+b)
+}
+add_two_nums (8,8)
+
+#one line function
+cube_num <- function (x) x**3
+cube_num(10)
+grading <= function(Score)
+  score <-80
+score <-80
+if (score >=80) {
+  return("passed")
+} else {
+  return("fail")
+}
+if (score >=80) {
+  return("Passed")
+} else {
+  return("Fail")
+}
+if (score >=80) {
+  return("Passed")
+}
+if (score >= 80) {
+  return("Passed")
+} else {
+  return("Fail")
+}
+if (score >= 80) {
+  return("Passed")
+}
+if (score >= 80){
+  print("Passed")
+} else {
+  print("Failed")
+}
+score <-50
+if (score >= 80){
+  print("Passed")
+} else {
+  print("Failed")
+}
+score <-95
+if (score>= 80) {
+}
+if (score >= 80){
+  print("Passed")
+} else {
+  print("Failed")
+}
+
+grading <- function(Score)
+  grading <- function(Score) {
+    if (score >= 80){
+      print("Passed")
+    } else {
+      print("Failed")
+    }
+  }
+greading(90)
+grading <- function(Score) {
+  if (score >= 80){
+    print("Passed")
+  } else {
+    print("Failed")
+  }
+}
+grading <- function (Score) {
+  if (score >= 80){
+    print("Passed")
+  } else {
+    print("Failed")
+  }
+}
+grading <- function (Score) {
+  if (score >= 80){
+    print("Passed")
+  } else {
+    print("Failed")
+  }
+}
+grading (80)
+grading(50)
+grading <- function (Score) {
+  if (score >= 80){
+    return("Passed")
+  } else {
+    return("Failed")
+  }
+}
+grading(50)
+score <-95
+score <-95
+if (score >= 80){
+  return("Passed")
+} else {
+  return("Failed")
+}
+score <-95
+score(80)
+
+#while loop
+count <-0
+
+#while loop
+count <-0
+
+print("hello")}
+while (count < 3) {
+  print("hello!")
+}
+
+#while loop
+count <-1
+#while loop
+count <-5
+while (count < 3) {
+  print("hello!")
+  count<- count +1
+}
+#while loop
+count <-0
+while (count < 3) {
+  print("hello!")
+  count<- count +1
+}
+score <-95
+if (score >= 80){
+  return("Passed")
+} else {
+  return("Failed")
+}
+if (score >= 80){
+  return("Passed")
+} else {
+  return("Failed")
+}
+grading <- function (Score) {
+  if (score >= 80){
+    return("Passed")
+  } else {
+    return("Failed")
+  }
+}
+if (score >= 80){
+  return("Passed")
+} else {
+  return("Failed")
+}
+grading <- function (Score) {
+  if (score >= 80){
+    return("Passed")
+  } else {
+    return("Failed")
+  }
+}
+grading(250)
+age
+ages
+is.numeric(ages)
+is.numeric(my_age)
+my_age <-"25"
+is.numeric(my_age)
+ages <- c(33,30,35)
+is.numeric(ages)
+text<-100
+text
+text <- as.character(text)
+text
+is.character(text)
+ID <- c(1001, 1002, 1003)
+
+Cname <- c("toy", "anna", "marry")
+City <- c("BKK", "LON" "NYC")
+City <- c("BKK", "LON", "NYC")
+
+data.frame (ID, Cname,City)
+customer <- data.frame (ID, Cname,City)
+customer
+Customer_name <- c("toy", "anna", "marry")
+#data frame
+data.frame (ID, Customer_name ,City)
+customer <- data.frame (ID, Customer_name, City)
+customer
+View(customer)
+#ex data frame
+membership <- data.frame(
+  id = 1:3,
+  member_tier = c("Gold", "Gold", "Sliver")
+)
+membership
+View(membership)
+#create vector of same size
+ID <- c(1, 2, 3)
+ID <- c(1, 2, 3)
+Customer_name <- c("toy", "anna", "marry")
+City <- c("BKK", "LON", "NYC")
+
+#data frame
+data.frame (ID, Customer_name ,City)
+customer <- data.frame (ID, Customer_name, City)
+customer
+View(customer) #show data in table
+
+merge(customer, membership)
+merge(customer, membership, by="id")
+merge(customer, membership,)
+
+#ex data frame
+
+membership <- data.frame(
+  ID = 1:3,
+  member_tier = c("Gold", "Gold", "Sliver")
+)
+merge(customer, membership)
+merge(customer, membership, by="ID")
+full_df <-merge(customer, membership)
+full_df
+read.csv("samsple_sotre.csv")
+read.csv("samsple_store.csv")
+sotres <-read.csv("samsple_store.csv")
+view(stores)
+View(stores)
+stores <-read.csv("samsple_store.csv")
+read.csv("samsple_store.csv")
+View(stores)
+head(stores)
+tail(stores)
+head(stores)
+stores[100,]
+stores[100, "Customer.Name"] #choose order
+stores[10, "Customer.Name", "Country", "City"] #choose order
+stores[10, c("Customer.Name", "Country", "City")] #choose order
+columns_selected
+
+columns_selected <-c("Customer.Name", "Country", "City")
+stores[1:5,columns_selected ]
+
+
+install.packages("RSQLite")
+library(RSQLite)
+con<- dbConnect(SQLite(), "chinook.db")
+con
+dbListTables(con)
+dbGetQuery(con, "select firstname, lastname from customer limit 10")
+dbGetQuery(con, "select firstname, lastname from customers limit 10")
+dbGetQuery(con,
+           "select
+firstname,
+lastname,
+country,
+email,
+phone from customers limit 10")
+top_ten_coustomer <-dbGetQuery(con,
+                               "select
+firstname,
+lastname,
+country,
+email,
+phone from customers limit 10")
+top_ten_coustomer
+usa_customer<-dbGetQuery(con,
+                         "select
+firstname,
+lastname,
+country,
+email,
+phone
+from customers
+where country ='USA' ")
+usa_customer
+View(usa_customer)
+write.csv(usa_customer, "usadata _ex.csv")
+dbDisconnect(con)
+View(customer)
+View(con)
+savehistory("/cloud/project/history/history as 30-5-22.Rhistory")
+
+
+
+
+usa_customer
+
+
+read.csv("samsple_store.csv")
+stores <-read.csv("samsple_store.csv")
+View(stores)
+
+head(stores) #print first 6 letter
+tail(stores) #print last 6 letter
+
+stores[10, c("Customer.Name", "Country", "City")] #choose order
+
+columns_selected <-c("Customer.Name", "Country", "City")
+
+stores[1:5,columns_selected ] #subset data
+
+#Connect R to SQLite
+
+con<- dbConnect(SQLite(), "chinook.db")
+con
+
+dbListTables(con)
+dbGetQuery(con, 
+           "select 
+           firstname, 
+           lastname,
+           country,
+           email,
+           phone from customers limit 10")
+
+top_ten_coustomer <-dbGetQuery(con, 
+                               "select 
+           firstname, 
+           lastname,
+           country,
+           email,
+           phone from customers limit 10")
+top_ten_coustomer
+
+usa_customer <-dbGetQuery(con, 
+                         "select 
+           firstname, 
+           lastname,
+           country,
+           email,
+           phone 
+           from customers 
+           where country ='USA' ")
+usa_customer
+View(usa_customer)
+
+#export data to csv file
+write.csv(usa_customer, "usadata _ex.csv")
+
+#disconnected from data base
+dbDisconnect(con)
+
+
+
+
