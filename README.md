@@ -1,7 +1,7 @@
 # IntroToMyGithub
 For self introduction on Github. 
 #
-This is for show cases my programing studied exprience
+This is for showcases my programing studied exprience
 ##
 1. R language please check the attathced flies 
   >Intro to Programming.R is study workbook.
