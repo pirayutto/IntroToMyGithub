@@ -5,7 +5,7 @@ This is for show cases my programing studied exprience
 ##
 1. R language please check the attathced flies 
   >Intro to Programming.R is study workbook.
-  ___R homework.R is bootcamp homework.
+  And R homework.R is bootcamp homework.
 #
 2. Python plese follow this link
 #
