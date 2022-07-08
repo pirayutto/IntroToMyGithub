@@ -3,7 +3,7 @@ For self introduction on Github.
 #
 This is for show cases my programing studied exprience
 ##
-1.R language bootcamp material please check the attathced flies
+1.R language please check the attathced flies > Intro to Programming.R is study material
 #
 2.Python plese follow this link
 #
