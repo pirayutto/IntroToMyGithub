@@ -5,7 +5,7 @@ This is for show cases my programing studied exprience
 ##
 1.R language bootcamp material please check the attathced flies
 #
-2. Python plese follow this link
+2.Python plese follow this link
 #
 https://datalore.jetbrains.com/notebook/0qwh1zzygEN1rCythBeLUh/tSyo5d29tumcqE9HBMpDgr/
 #
